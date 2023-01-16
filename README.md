@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/silentspectator20/silentspectator20/blob/main/background.png)
 <h1 align="center">Hi 👋, I'm Siddhi Jain</h1>
 <h3 align="center">A Girl always eager to learn something new!</h3>
 
